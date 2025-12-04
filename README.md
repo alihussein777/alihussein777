@@ -3,7 +3,7 @@
 <h3 align="center">Front-End Web Developer | HTML • CSS • JavaScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I+create+clean+and+modern+web+interfaces.;Front-end+developer+from+Iraq.;Always+learning+and+building!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I+create+clean+and+modern+web+interfaces.;Front-end+developer+from+Yemen.;Always+learning+and+building!+🚀" alt="Typing SVG" />
 </p>
 
 ---
