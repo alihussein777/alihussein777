@@ -86,4 +86,4 @@ A simple project to practice DOM and JS logic.
 
 ---
 
-<p align="center">🌟 Thank you for stopping by! Feel free to ⭐ any project you liked! 🌟</p>
+<p align="center">🌟 Thank you for stopping by! Feel free to ⭐ any project you liked! 🌟</p> 
