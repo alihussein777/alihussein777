@@ -45,7 +45,7 @@ I'm *Ali Hussein, a passionate **Front-End Web Developer* who loves turning idea
 
 ---
 
-## 🌈 *Featured Projects*
+##  *Featured Projects*
 > Replace these with your real project links 👇
 
 ### 🎨 *Landing Page – Modern & Responsive*
