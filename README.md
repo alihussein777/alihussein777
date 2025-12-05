@@ -39,7 +39,7 @@ I'm *Ali Hussein, a passionate **Front-End Web Developer* who loves turning idea
 
 ## 🛠️ *My Tech Stack*
 
-<p align="center">
+<p align="center"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,vscode" />
 </p>
 
